@@ -12,25 +12,25 @@ author: 또 누군가
 
 ## 그녀들의 이야기
 
-![](./0000.jpg){: .mx-auto.d-block :}
+![](0000.jpg){: .mx-auto.d-block :}
 
 버튜버의 시대가 오겠어요?
 
 
 
-![](./0001.jpg){: .mx-auto.d-block :}
+![](0001.jpg){: .mx-auto.d-block :}
 
 아 오지요. 100% 오지요. 그거는 반드시 올 수밖에 없죠.
 
 
 
-![](./0002.jpg){: .mx-auto.d-block :}
+![](0002.jpg){: .mx-auto.d-block :}
 
 근데, 그런 시대가 오면 나는 없을것 같아요.
 
 
 
-![](./0003.gif){: .mx-auto.d-block :}
+![](0003.gif){: .mx-auto.d-block :}
 
 ... 그럴수는 있죠.
 
