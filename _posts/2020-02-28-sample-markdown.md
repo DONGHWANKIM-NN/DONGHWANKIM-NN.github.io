@@ -1,22 +1,44 @@
 ---
 layout: post
-title: System Hacking & Reverse Engineering
-subtitle: There's lots to learn! 너무 많다고;
+title: ??? : 버튜버의 시대가 오겠어요?
+subtitle: 설마요~
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+thumbnail-img: 0000.jpg
 tags: [test]
 comments: true
-author: 나
+author: 또 누군가
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+## 그녀들의 이야기
 
-**Here is some bold text**
+![](./0000.jpg){: .mx-auto.d-block :}
 
-## Here is a secondary heading
+버튜버의 시대가 오겠어요?
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+
+
+![](./0001.jpg){: .mx-auto.d-block :}
+
+아 오지요. 100% 오지요. 그거는 반드시 올 수밖에 없죠.
+
+
+
+![](./0002.jpg){: .mx-auto.d-block :}
+
+근데, 그런 시대가 오면 나는 없을것 같아요.
+
+
+
+![](./0003.gif){: .mx-auto.d-block :}
+
+... 그럴수는 있죠.
+
+
+
+
+
+
 
 Here's a table:
 
