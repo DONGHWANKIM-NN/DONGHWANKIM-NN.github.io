@@ -2,7 +2,7 @@
 layout: post
 title: 부두술
 subtitle: 웨이보는 어떻게 강팀이 되었는가
-cover-img: /assets/img/path.jpg
+cover-img: 111.png
 thumbnail-img: 20230609_203709.jpg
 share-img: /assets/img/path.jpg
 tags: [Community]
