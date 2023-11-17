@@ -3,9 +3,8 @@ layout: post
 title: ???  버튜버의 시대가 오겠어요?
 subtitle: 설마요~
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 thumbnail-img: 0000.jpg
-tags: [test]
+tags: [test, 진짜테스트]
 comments: true
 author: 또 누군가
 ---
@@ -18,9 +17,13 @@ author: 또 누군가
 
 
 
+
+
 ![](/0001.jpg){: .mx-auto.d-block :}
 
 아 오지요. 100% 오지요. 그거는 반드시 올 수밖에 없죠.
+
+
 
 
 
@@ -30,15 +33,21 @@ author: 또 누군가
 
 
 
+
+
 ![](/0003.gif){: .mx-auto.d-block :}
 
 ... 그럴수는 있죠.
 
 
 
+
+
 ![](/0004.jpg){: .mx-auto.d-block :}
 
 오야붕님은 첫 물결이세요.
+
+
 
 
 
@@ -49,9 +58,13 @@ author: 또 누군가
 
 
 
+
+
 ![](/0007.gif){: .mx-auto.d-block :}
 
 그런데 이 첫 파도가 가려고 하는 데까지 바로 갈 수도 있지만
+
+
 
 
 
@@ -61,9 +74,13 @@ author: 또 누군가
 
 
 
+
+
 ![](/0009.gif){: .mx-auto.d-block :}
 
 그 다음 파도가 오고...
+
+
 
 
 
@@ -75,6 +92,8 @@ author: 또 누군가
 
 
 
+
+
 ![](/0013.gif){: .mx-auto.d-block :}
 ![](/0014.gif){: .mx-auto.d-block :}
 ![](/0015.gif){: .mx-auto.d-block :}
@@ -83,11 +102,15 @@ author: 또 누군가
 
 
 
+
+
 ![](/0016.jpg){: .mx-auto.d-block :}
 
 거기 갈 수는 있겠죠.
 
 그러니까 그런 면에서 보면...
+
+
 
 
 
@@ -103,76 +126,152 @@ author: 또 누군가
 
 
 
+![](/0020.gif){: .mx-auto.d-block :}
+![](/0021.gif){: .mx-auto.d-block :}
+
+...새로운 변화...
 
 
-Here's a table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
-How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
-It can also be centered!
+![](/0022.gif){: .mx-auto.d-block :}
+![](/0023.gif){: .mx-auto.d-block :}
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+새로운 문화를 체현하고 있으시기 때문에...
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
 
-And here is the same code yet again but with line numbers:
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+![](/0024.gif){: .mx-auto.d-block :}
 
-## Boxes
-You can add notification, warning and error boxes like this:
+첫 파도의 머리와 같은 분이세요, 오야붕님은.
 
-### Notification
 
-{: .box-note}
-**Note:** This is a notification box.
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
 
-### Error
 
-{: .box-error}
-**Error:** This is an error box.
 
-## Local URLs in project sites {#local-urls}
 
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
 
-![Crepe](/assets/img/crepe.jpg)
 
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
 
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+
+
+
+
+
+
+............
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](/0025.gif){: .mx-auto.d-block :}
+
+...근데 가시고 싶으신 데까지 못 가실수도 있죠 오야붕님은.
+
+
+
+
+
+
+![](/0026.gif){: .mx-auto.d-block :}
+
+...그런데 언젠가는, 사람들이 거기까지 갈 거에요.
+
+
+
+
+
+
+![](/0027.gif){: .mx-auto.d-block :}
+
+그런데 그렇게 되기만 하면야, 뭐 오야붕님이 거기에 계시든 안 계시든 뭐 상관있나요.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+......
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](/0028.gif){: .mx-auto.d-block :}
+
+...하긴 그래요, 내가 뭐. 그런 세상이 되기만 하면 되지
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](/0029.gif){: .mx-auto.d-block :}
+뭐 꼭 내가 거기 있어야 되는 건 아니니까.
+
+
+
+
+
+
+
+
+
+
+
+
+
