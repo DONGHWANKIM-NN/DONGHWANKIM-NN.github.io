@@ -144,8 +144,8 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 navbar-img: "[Theme 87 ｜ Constant Moderato Piano Arrange] Blue Archive - Perfectly Looped 30 Mins. (lvLmceA8xzQ).mp4_20230803_051921.469.png"
-#footer-img: "/assets/img/bgimage.png"
-page-img: "unnamed.png"
+footer-img: "unnamed.png"
+page-img: "im15ld.bmp"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
