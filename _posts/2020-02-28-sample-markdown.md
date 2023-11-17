@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ??? : 버튜버의 시대가 오겠어요?
+title: ???  버튜버의 시대가 오겠어요?
 subtitle: 설마요~
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
